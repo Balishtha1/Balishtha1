@@ -312,7 +312,7 @@ Indore, Madhya Pradesh, India
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Balishtha1/Balishtha1/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Balishtha1/Balishtha1/gh-pages/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
